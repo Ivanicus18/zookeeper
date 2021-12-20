@@ -126,6 +126,19 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Ivan",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
